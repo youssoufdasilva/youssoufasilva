@@ -1,5 +1,3 @@
-# youssoufasilva
-
 👋 Hi, I’m Youssouf!
 
 💻 This GitHub will contain the code to some of the projects, feel free to check the code out yourself!
